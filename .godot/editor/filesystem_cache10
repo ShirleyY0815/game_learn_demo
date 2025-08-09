@@ -1,10 +1,10 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1754731196
-icon.svg::CompressedTexture2D::592475439125684349::1754731167::1754731197::1::::<><><>0<>0<>4fa4aaa1d7abc7fe480fc1f602f4fdb5<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
-play_ground.tscn::PackedScene::7862360091514755952::1754731167::0::1::::<><><>0<>0<><>::uid://14dr6wtii2nd::::res://Player/player.tscn
+::res://::1754732344
+icon.svg::CompressedTexture2D/CompressedTexture2D::592475439125684349::1754731167::1754731197::1::::<><><>0<>0<>4fa4aaa1d7abc7fe480fc1f602f4fdb5<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+play_ground.tscn::PackedScene::7862360091514755952::1754732324::0::1::::<><><>0<>0<><>::uid://14dr6wtii2nd::::res://Player/player.tscn
 ::res://Player/::1754731167
-player.tscn::PackedScene::1884991062015119561::1754731167::0::1::::<><><>0<>0<><>::uid://r15x7isoqa8y::::res://Player/Scripts/player.gd<>uid://c8xj4kx28syne::::res://Player/Sprites/ExamplePlayerSprite.png
+player.tscn::PackedScene/PackedScene::1884991062015119561::1754731167::0::1::::<><><>0<>0<><>::uid://r15x7isoqa8y::::res://Player/Scripts/player.gd<>uid://c8xj4kx28syne::::res://Player/Sprites/ExamplePlayerSprite.png
 ::res://Player/Scripts/::1754731167
-player.gd::GDScript::1248748440437727514::1754731167::0::1::::Player<>CharacterBody2D<><>0<>0<><>::
-::res://Player/Sprites/::1754731167
-ExamplePlayerSprite.png::CompressedTexture2D::7137152698778379998::1754731167::1754731197::1::::<><><>0<>0<>215f3f327a981e5366be90c649d14818<>res://.godot/imported/ExamplePlayerSprite.png-1a0713d9e212d397b05cebe8c8b9b26c.ctex::
+player.gd::GDScript/GDScript::1248748440437727514::1754731167::0::1::::Player<>CharacterBody2D<><>0<>0<><>::
+::res://Player/Sprites/::1754731197
+ExamplePlayerSprite.png::CompressedTexture2D/CompressedTexture2D::7137152698778379998::1754731167::1754731197::1::::<><><>0<>0<>215f3f327a981e5366be90c649d14818<>res://.godot/imported/ExamplePlayerSprite.png-1a0713d9e212d397b05cebe8c8b9b26c.ctex::
