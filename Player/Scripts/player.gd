@@ -9,6 +9,8 @@ var state: String = "idle"
 @onready var animation_player: AnimationPlayer = $AnimationPlayer
 @onready var sprite: Sprite2D = $Sprite2D
 
+
+
 func _ready():
 	# 初始播放idle_down动画
 	animation_player.play("idle_down")
