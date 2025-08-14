@@ -1,7 +1,3 @@
-res://map/new_tile_set.tres
-res://play_ground.tscn
-res://map/tileset_1.tres
 res://Player/player.tscn
-res://map/test_map.tscn
-res://Player/Scripts/player.gd
+res://play_ground.tscn
 res://map/Grass-01.tscn
